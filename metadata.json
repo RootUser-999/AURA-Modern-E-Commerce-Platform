@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Modern E-Commerce Platform",
+  "description": "Full-stack e-commerce web application featuring modern storefront, cart, checkout, customer accounts, and comprehensive admin dashboard with inventory tracking and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

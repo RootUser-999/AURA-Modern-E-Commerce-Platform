@@ -1,0 +1,1067 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Aether Hi-Fi Wireless Headphones",
+      "slug": "aether-hi-fi-wireless-headphones",
+      "sku": "AUR-AUD-010",
+      "description": "Engineered for audio purists, the Aether headphones feature 50mm custom beryllium dynamic drivers, precision machined aluminum gimbals, and ultra-supple sheepskin ear cushions. Equipped with lossless aptX HD bluetooth transmission and balanced 4.4mm analog passthrough.",
+      "shortDescription": "Lossless planar sound with machined aluminum gimbals and sheepskin cushions.",
+      "price": 389,
+      "salePrice": 349,
+      "costPrice": 195,
+      "stock": 24,
+      "lowStockThreshold": 5,
+      "category": "cat-audio",
+      "brand": "AURA Labs",
+      "images": [
+        "/src/assets/images/product_audio_headphones_1791623282288.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 4.9,
+      "reviewCount": 48,
+      "specifications": {
+        "Frequency Response": "5Hz – 45,000Hz",
+        "Driver Size": "50mm Beryllium Matrix",
+        "Battery Life": "42 hours playback",
+        "Connectivity": "Bluetooth 5.3 + 3.5mm/4.4mm",
+        "Weight": "290g"
+      },
+      "createdAt": "2026-09-01T10:00:00Z",
+      "updatedAt": "2026-10-10T09:33:37.817Z"
+    },
+    {
+      "id": "prod-002",
+      "name": "Lumen Cantilever Studio Desk Lamp",
+      "slug": "lumen-cantilever-studio-desk-lamp",
+      "sku": "AUR-WRK-022",
+      "description": "Precision balanced cantilever desk lamp forged from matte anodized steel and brass pivot points. Features a full-spectrum CRI 98 LED disc delivering warm 2700K–5000K daylight simulation with zero flicker, rotary dimming, and integrated cable routing.",
+      "shortDescription": "Architectural balanced arm lamp with CRI 98 full-spectrum lighting.",
+      "price": 245,
+      "salePrice": null,
+      "costPrice": 110,
+      "stock": 18,
+      "lowStockThreshold": 5,
+      "category": "cat-workspace",
+      "brand": "AURA Atelier",
+      "images": [
+        "/src/assets/images/product_desk_lamp_1791623293368.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.8,
+      "reviewCount": 32,
+      "specifications": {
+        "Color Temp": "2700K - 5000K Stepless",
+        "Max Lumens": "1100 lm",
+        "CRI Rating": "98 CRI",
+        "Reach Radius": "88 cm",
+        "Material": "Anodized Steel & Solid Brass"
+      },
+      "createdAt": "2026-09-05T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-003",
+      "name": "Kratos Titanium Automatic Field Watch",
+      "slug": "kratos-titanium-automatic-field-watch",
+      "sku": "AUR-HOR-035",
+      "description": "An uncompromising field timepiece encased in lightweight Grade 5 bead-blasted titanium. Powered by a Japanese 28,800 bph automatic caliber with a 42-hour power reserve, anti-reflective sapphire crystal, and textured silicone expedition strap.",
+      "shortDescription": "Grade 5 bead-blasted titanium case with sapphire crystal and 200m water resistance.",
+      "price": 520,
+      "salePrice": 475,
+      "costPrice": 260,
+      "stock": 12,
+      "lowStockThreshold": 4,
+      "category": "cat-timepieces",
+      "brand": "Chronos Lab",
+      "images": [
+        "/src/assets/images/product_titanium_watch_1791623305701.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 5,
+      "reviewCount": 64,
+      "specifications": {
+        "Case Diameter": "39.5mm",
+        "Thickness": "11.2mm",
+        "Water Resistance": "20 ATM / 200m",
+        "Movement": "Automatic Caliber 9039",
+        "Crystal": "Double Domed Sapphire AR"
+      },
+      "createdAt": "2026-09-08T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-004",
+      "name": "Vanguard Ballistic Tech Backpack 28L",
+      "slug": "vanguard-ballistic-tech-backpack-28l",
+      "sku": "AUR-CRY-044",
+      "description": "Built for demanding city commutes and intercontinental travel. Constructed from 1680D Cordura ballistic nylon with YKK AquaGuard weatherproof zippers, dedicated suspended 16\" laptop vault, and full-grain bridle leather handles.",
+      "shortDescription": "1680D Cordura weatherproof pack with suspended laptop compartment.",
+      "price": 265,
+      "salePrice": null,
+      "costPrice": 125,
+      "stock": 22,
+      "lowStockThreshold": 6,
+      "category": "cat-carry",
+      "brand": "Vanguard Carry",
+      "images": [
+        "/src/assets/images/product_leather_backpack_1791623317732.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 4.8,
+      "reviewCount": 41,
+      "specifications": {
+        "Capacity": "28 Liters",
+        "Laptop Pocket": "Up to 16\" MacBook Pro",
+        "Waterproof": "1680D Cordura + TPU Backing",
+        "Hardware": "Fidlock V-Buckle magnetic",
+        "Weight": "1.18 kg"
+      },
+      "createdAt": "2026-09-10T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-005",
+      "name": "Monolith Travertine Acoustic Speaker",
+      "slug": "monolith-travertine-acoustic-speaker",
+      "sku": "AUR-AUD-059",
+      "description": "Sculpted from a single block of Tuscan travertine stone, housing a high-excursion long-throw woofer and silk dome tweeter. The mineral density eliminates acoustic resonance, producing crystal-clear transients and room-filling sound.",
+      "shortDescription": "Hand-sculpted natural travertine stone housing with acoustic isolation.",
+      "price": 680,
+      "salePrice": 620,
+      "costPrice": 340,
+      "stock": 7,
+      "lowStockThreshold": 3,
+      "category": "cat-audio",
+      "brand": "AURA Labs",
+      "images": [
+        "/src/assets/images/hero_modern_lifestyle_1791623269890.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.9,
+      "reviewCount": 19,
+      "specifications": {
+        "Power Output": "120W RMS Bi-amplified",
+        "Connectivity": "Wi-Fi 6, AirPlay 2, Spotify Connect",
+        "Cabinet Material": "Solid Travertine Stone",
+        "Weight": "5.8 kg"
+      },
+      "createdAt": "2026-09-12T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-006",
+      "name": "Machined Aluminum Monitor Arm",
+      "slug": "machined-aluminum-monitor-arm",
+      "sku": "AUR-WRK-063",
+      "description": "Gas-spring counterbalanced mechanical arm milled from solid billet 6061 aircraft aluminum. Supports ultra-wide monitors up to 49\" (18kg) with fluid 360-degree rotation and integrated magnetic wire routing.",
+      "shortDescription": "Heavy-duty billet aluminum arm supporting displays up to 49 inches.",
+      "price": 185,
+      "salePrice": null,
+      "costPrice": 85,
+      "stock": 35,
+      "lowStockThreshold": 5,
+      "category": "cat-workspace",
+      "brand": "AURA Atelier",
+      "images": [
+        "/src/assets/images/product_desk_lamp_1791623293368.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 4.7,
+      "reviewCount": 52,
+      "specifications": {
+        "Max Weight Capacity": "18 kg (40 lbs)",
+        "Display Compatibility": "VESA 75x75 & 100x100",
+        "Tilt Range": "+90° / -15°",
+        "Material": "Billet 6061 Aluminum"
+      },
+      "createdAt": "2026-09-15T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-007",
+      "name": "Minimalist Brass Mechanical Pencil 0.5mm",
+      "slug": "minimalist-brass-mechanical-pencil",
+      "sku": "AUR-WRK-078",
+      "description": "Turned from solid untreated brass bar stock that oxidizes uniquely with your touch over time. Perfectly counterbalanced low center-of-gravity mechanism engineered for draftsmen and designers.",
+      "shortDescription": "Solid raw brass drafting instrument with self-patinating finish.",
+      "price": 65,
+      "salePrice": 55,
+      "costPrice": 22,
+      "stock": 45,
+      "lowStockThreshold": 10,
+      "category": "cat-workspace",
+      "brand": "Atelier Minimal",
+      "images": [
+        "/src/assets/images/product_desk_lamp_1791623293368.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.9,
+      "reviewCount": 28,
+      "specifications": {
+        "Lead Size": "0.5mm Polymer Lead",
+        "Body Material": "C36000 Solid Brass",
+        "Weight": "44g",
+        "Refill Mechanism": "Precision Japanese Brass Clutch"
+      },
+      "createdAt": "2026-09-18T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-008",
+      "name": "Nocturne Chronograph Obsidian Edition",
+      "slug": "nocturne-chronograph-obsidian-edition",
+      "sku": "AUR-HOR-089",
+      "description": "Black DLC-coated stainless steel dual-register chronograph with matte ceramic tachymeter bezel. Lumed hands with Swiss Super-LumiNova BGW9 and vegetable-tanned bridle leather strap.",
+      "shortDescription": "DLC-treated black dial chronograph with ceramic tachymeter bezel.",
+      "price": 640,
+      "salePrice": null,
+      "costPrice": 310,
+      "stock": 3,
+      "lowStockThreshold": 5,
+      "category": "cat-timepieces",
+      "brand": "Chronos Lab",
+      "images": [
+        "/src/assets/images/product_titanium_watch_1791623305701.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.8,
+      "reviewCount": 14,
+      "specifications": {
+        "Case Diameter": "41mm",
+        "Coating": "Diamond-Like Carbon (DLC)",
+        "Lug Width": "20mm",
+        "Power Reserve": "45 Hours"
+      },
+      "createdAt": "2026-09-20T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-009",
+      "name": "Forma Ceramic Ikebana Vessel",
+      "slug": "forma-ceramic-ikebana-vessel",
+      "sku": "AUR-LIV-092",
+      "description": "Hand-thrown stoneware vessel finished in a tactile chalk slip glaze. Designed for contemplative floral arrangements or solitary architectural branch displays.",
+      "shortDescription": "Tactile chalk stoneware vessel hand-thrown in limited editions.",
+      "price": 110,
+      "salePrice": 95,
+      "costPrice": 42,
+      "stock": 0,
+      "lowStockThreshold": 3,
+      "category": "cat-living",
+      "brand": "Kanso Studio",
+      "images": [
+        "/src/assets/images/hero_modern_lifestyle_1791623269890.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.6,
+      "reviewCount": 17,
+      "specifications": {
+        "Height": "24 cm",
+        "Diameter": "14 cm",
+        "Clay Body": "High-fire Iron Flecked Stoneware",
+        "Finish": "Matte Chalk Glaze"
+      },
+      "createdAt": "2026-09-22T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-010",
+      "name": "Nomad Magnetic Tech Folio",
+      "slug": "nomad-magnetic-tech-folio",
+      "sku": "AUR-CRY-105",
+      "description": "Slimline carry folio crafted from Italian semi-aniline leather with hidden Neodymium magnetic closures, tablet sleeve, and elastic cables organizer.",
+      "shortDescription": "Semi-aniline Italian leather organizer with magnetic closures.",
+      "price": 135,
+      "salePrice": null,
+      "costPrice": 58,
+      "stock": 28,
+      "lowStockThreshold": 5,
+      "category": "cat-carry",
+      "brand": "Vanguard Carry",
+      "images": [
+        "/src/assets/images/product_leather_backpack_1791623317732.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "isBestseller": false,
+      "isActive": true,
+      "rating": 4.7,
+      "reviewCount": 23,
+      "specifications": {
+        "Fit": "Tablets up to 12.9\" or 13\" Laptops",
+        "Leather": "Full-Grain Tuscan Cowhide",
+        "Dimensions": "33 x 24 x 2 cm"
+      },
+      "createdAt": "2026-09-25T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-011",
+      "name": "Solis Desktop Wireless Fast Charger 3-in-1",
+      "slug": "solis-desktop-wireless-fast-charger",
+      "sku": "AUR-AUD-118",
+      "description": "Machined solid aluminum wireless charging station capable of simultaneously powering your smartphone (15W Qi2), watch (5W fast charge), and wireless earbuds (5W).",
+      "shortDescription": "Solid machined aluminum 3-in-1 fast charger with braided cable.",
+      "price": 125,
+      "salePrice": 99,
+      "costPrice": 48,
+      "stock": 40,
+      "lowStockThreshold": 8,
+      "category": "cat-workspace",
+      "brand": "AURA Labs",
+      "images": [
+        "/src/assets/images/hero_modern_lifestyle_1791623269890.jpg"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 4.9,
+      "reviewCount": 78,
+      "specifications": {
+        "Charging Protocol": "Qi2 15W Magnetic Alignment",
+        "Inputs": "USB-C 45W PD",
+        "Base Weight": "380g (anti-slip weighted)"
+      },
+      "createdAt": "2026-09-27T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-012",
+      "name": "Strata Wool Felt Desk Mat (Large)",
+      "slug": "strata-wool-felt-desk-mat-large",
+      "sku": "AUR-WRK-129",
+      "description": "High-density 100% Merino wool felt desk pad offering acoustic dampening, cushioned wrist comfort, and smooth optical mouse tracking. Natural cork backing prevents slipping.",
+      "shortDescription": "100% German Merino wool felt with non-slip natural cork backing.",
+      "price": 58,
+      "salePrice": null,
+      "costPrice": 20,
+      "stock": 50,
+      "lowStockThreshold": 10,
+      "category": "cat-workspace",
+      "brand": "AURA Atelier",
+      "images": [
+        "/src/assets/images/product_desk_lamp_1791623293368.jpg"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "isBestseller": true,
+      "isActive": true,
+      "rating": 4.8,
+      "reviewCount": 93,
+      "specifications": {
+        "Dimensions": "90 x 40 cm",
+        "Thickness": "4mm Composite",
+        "Material": "Merino Wool + Portuguese Cork"
+      },
+      "createdAt": "2026-09-28T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-audio",
+      "name": "Tech & Studio Audio",
+      "slug": "audio-tech",
+      "description": "Precision acoustic engineering, open-back monitors, and wireless audiophile instruments.",
+      "imageUrl": "/src/assets/images/product_audio_headphones_1791623282288.jpg"
+    },
+    {
+      "id": "cat-workspace",
+      "name": "Studio & Desk Gear",
+      "slug": "workspace",
+      "description": "Machined aluminum accessories, balanced cantilever lighting, and ergonomic work surfaces.",
+      "imageUrl": "/src/assets/images/product_desk_lamp_1791623293368.jpg"
+    },
+    {
+      "id": "cat-timepieces",
+      "name": "Precision Horology",
+      "slug": "timepieces",
+      "description": "Grade 5 titanium automatic field watches, sapphire crystal lenses, and minimalist horology.",
+      "imageUrl": "/src/assets/images/product_titanium_watch_1791623305701.jpg"
+    },
+    {
+      "id": "cat-carry",
+      "name": "Technical Carry",
+      "slug": "carry-apparel",
+      "description": "Weatherproof ballistic nylon packs, magnetic Fidlock hardware, and vegetable-tanned accents.",
+      "imageUrl": "/src/assets/images/product_leather_backpack_1791623317732.jpg"
+    },
+    {
+      "id": "cat-living",
+      "name": "Architectural Objects",
+      "slug": "living-design",
+      "description": "Sculptural stone vessels, monolithic wireless docks, and tactile desktop accessories.",
+      "imageUrl": "/src/assets/images/hero_modern_lifestyle_1791623269890.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin",
+      "username": "admin",
+      "email": "admin@aurastudio.com",
+      "fullName": "System Administrator",
+      "role": "admin",
+      "phone": "+1 (555) 019-2834",
+      "isActive": true,
+      "createdAt": "2026-08-01T08:00:00Z",
+      "lastLogin": "2026-10-10T02:00:00Z"
+    },
+    {
+      "id": "usr-001",
+      "username": "elena.rostova",
+      "email": "elena.rostova@designlab.io",
+      "fullName": "Elena Rostova",
+      "role": "customer",
+      "phone": "+1 (555) 234-5678",
+      "address": {
+        "street": "742 Evergreen Terrace",
+        "city": "Seattle",
+        "state": "WA",
+        "postalCode": "98101",
+        "country": "United States"
+      },
+      "isActive": true,
+      "createdAt": "2026-08-15T12:00:00Z",
+      "lastLogin": "2026-10-08T15:30:00Z"
+    },
+    {
+      "id": "usr-002",
+      "username": "marcus.vance",
+      "email": "marcus.vance@archstudio.com",
+      "fullName": "Marcus Vance",
+      "role": "customer",
+      "phone": "+1 (555) 876-5432",
+      "address": {
+        "street": "450 Mission Bay Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "postalCode": "94158",
+        "country": "United States"
+      },
+      "isActive": true,
+      "createdAt": "2026-08-20T09:15:00Z",
+      "lastLogin": "2026-10-09T18:45:00Z"
+    },
+    {
+      "id": "usr-003",
+      "username": "sophia.chen",
+      "email": "sophia.chen@studio.co",
+      "fullName": "Sophia Chen",
+      "role": "customer",
+      "phone": "+1 (555) 432-1098",
+      "address": {
+        "street": "128 Mercer Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10012",
+        "country": "United States"
+      },
+      "isActive": true,
+      "createdAt": "2026-09-01T14:20:00Z",
+      "lastLogin": "2026-10-05T11:10:00Z"
+    },
+    {
+      "id": "usr-004",
+      "username": "liam.wright",
+      "email": "liam.wright@audiofreak.net",
+      "fullName": "Liam Wright",
+      "role": "customer",
+      "phone": "+1 (555) 901-2345",
+      "address": {
+        "street": "88 King Street West",
+        "city": "Toronto",
+        "state": "ON",
+        "postalCode": "M5H 1J9",
+        "country": "Canada"
+      },
+      "isActive": true,
+      "createdAt": "2026-09-10T16:00:00Z",
+      "lastLogin": "2026-10-07T09:20:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "usr-001",
+      "customerName": "Automated Test Customer",
+      "customerEmail": "test@example.com",
+      "customerPhone": "+1 555-000-0000",
+      "shippingAddress": {
+        "street": "123 Test Ave",
+        "city": "Seattle",
+        "state": "WA",
+        "postalCode": "98101",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "id": "test-item-1",
+          "productId": "prod-001",
+          "productName": "Aether Hi-Fi Wireless Headphones",
+          "productSku": "AUR-AUD-010",
+          "productImage": "/src/assets/images/product_audio_headphones_1791623282288.jpg",
+          "unitPrice": 389,
+          "quantity": 2,
+          "lineTotal": 778
+        }
+      ],
+      "subtotal": 778,
+      "discount": 0,
+      "couponCode": null,
+      "shippingFee": 0,
+      "shippingMethod": "Test Standard",
+      "tax": 0,
+      "total": 778,
+      "status": "cancelled",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "id": "ord-1791624817816",
+      "orderNumber": "AUR-70197",
+      "inventoryDeducted": true,
+      "inventoryRestored": true,
+      "statusHistory": [
+        {
+          "status": "cancelled",
+          "timestamp": "2026-10-10T09:33:37.818Z",
+          "note": "Repeated cancellation",
+          "updatedBy": "Test Suite"
+        },
+        {
+          "status": "cancelled",
+          "timestamp": "2026-10-10T09:33:37.817Z",
+          "note": "Automated cancellation test",
+          "updatedBy": "Test Suite"
+        },
+        {
+          "status": "pending",
+          "timestamp": "2026-10-10T09:33:37.816Z",
+          "note": "Order successfully created"
+        }
+      ],
+      "createdAt": "2026-10-10T09:33:37.816Z",
+      "updatedAt": "2026-10-10T09:33:37.818Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "AUR-10491",
+      "userId": "usr-001",
+      "customerName": "Elena Rostova",
+      "customerEmail": "elena.rostova@designlab.io",
+      "customerPhone": "+1 (555) 234-5678",
+      "shippingAddress": {
+        "street": "742 Evergreen Terrace",
+        "city": "Seattle",
+        "state": "WA",
+        "postalCode": "98101",
+        "country": "United States",
+        "deliveryNotes": "Leave on porch if no answer"
+      },
+      "items": [
+        {
+          "id": "item-01",
+          "productId": "prod-001",
+          "productName": "Aether Hi-Fi Wireless Headphones",
+          "productSku": "AUR-AUD-010",
+          "productImage": "/src/assets/images/product_audio_headphones_1791623282288.jpg",
+          "unitPrice": 349,
+          "quantity": 1,
+          "lineTotal": 349
+        },
+        {
+          "id": "item-02",
+          "productId": "prod-007",
+          "productName": "Minimalist Brass Mechanical Pencil 0.5mm",
+          "productSku": "AUR-WRK-078",
+          "productImage": "/src/assets/images/product_desk_lamp_1791623293368.jpg",
+          "unitPrice": 55,
+          "quantity": 2,
+          "lineTotal": 110
+        }
+      ],
+      "subtotal": 459,
+      "discount": 45.9,
+      "couponCode": "WELCOME10",
+      "shippingFee": 0,
+      "shippingMethod": "Express Courier (Free)",
+      "tax": 37.18,
+      "total": 450.28,
+      "status": "delivered",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "paymentReference": "ch_3N8eQ1X9k4l",
+      "carrier": "DHL Express",
+      "trackingNumber": "DHL-9481048123",
+      "inventoryDeducted": true,
+      "inventoryRestored": false,
+      "internalNotes": "VIP customer, prioritized courier delivery.",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-09-28T14:00:00Z",
+          "note": "Order placed online"
+        },
+        {
+          "status": "processing",
+          "timestamp": "2026-09-28T15:30:00Z",
+          "note": "Payment verified and sent to warehouse"
+        },
+        {
+          "status": "shipped",
+          "timestamp": "2026-09-29T10:15:00Z",
+          "note": "Dispatched via DHL Express"
+        },
+        {
+          "status": "delivered",
+          "timestamp": "2026-10-01T13:40:00Z",
+          "note": "Signed by recipient"
+        }
+      ],
+      "createdAt": "2026-09-28T14:00:00Z",
+      "updatedAt": "2026-10-01T13:40:00Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "AUR-10492",
+      "userId": "usr-002",
+      "customerName": "Marcus Vance",
+      "customerEmail": "marcus.vance@archstudio.com",
+      "customerPhone": "+1 (555) 876-5432",
+      "shippingAddress": {
+        "street": "450 Mission Bay Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "postalCode": "94158",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "id": "item-03",
+          "productId": "prod-003",
+          "productName": "Kratos Titanium Automatic Field Watch",
+          "productSku": "AUR-HOR-035",
+          "productImage": "/src/assets/images/product_titanium_watch_1791623305701.jpg",
+          "unitPrice": 475,
+          "quantity": 1,
+          "lineTotal": 475
+        }
+      ],
+      "subtotal": 475,
+      "discount": 0,
+      "couponCode": null,
+      "shippingFee": 0,
+      "shippingMethod": "Express Air (Free)",
+      "tax": 42.75,
+      "total": 517.75,
+      "status": "shipped",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "paymentReference": "ch_4J9qL2Z1m5r",
+      "carrier": "FedEx Priority",
+      "trackingNumber": "FDX-7739104882",
+      "inventoryDeducted": true,
+      "inventoryRestored": false,
+      "internalNotes": "Insured package signature required.",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-05T09:00:00Z"
+        },
+        {
+          "status": "processing",
+          "timestamp": "2026-10-05T10:00:00Z"
+        },
+        {
+          "status": "shipped",
+          "timestamp": "2026-10-06T11:00:00Z",
+          "note": "Package in transit"
+        }
+      ],
+      "createdAt": "2026-10-05T09:00:00Z",
+      "updatedAt": "2026-10-06T11:00:00Z"
+    },
+    {
+      "id": "ord-1003",
+      "orderNumber": "AUR-10493",
+      "userId": "usr-003",
+      "customerName": "Sophia Chen",
+      "customerEmail": "sophia.chen@studio.co",
+      "customerPhone": "+1 (555) 432-1098",
+      "shippingAddress": {
+        "street": "128 Mercer Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10012",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "id": "item-04",
+          "productId": "prod-004",
+          "productName": "Vanguard Ballistic Tech Backpack 28L",
+          "productSku": "AUR-CRY-044",
+          "productImage": "/src/assets/images/product_leather_backpack_1791623317732.jpg",
+          "unitPrice": 265,
+          "quantity": 1,
+          "lineTotal": 265
+        },
+        {
+          "id": "item-05",
+          "productId": "prod-012",
+          "productName": "Strata Wool Felt Desk Mat (Large)",
+          "productSku": "AUR-WRK-129",
+          "productImage": "/src/assets/images/product_desk_lamp_1791623293368.jpg",
+          "unitPrice": 58,
+          "quantity": 1,
+          "lineTotal": 58
+        }
+      ],
+      "subtotal": 323,
+      "discount": 20,
+      "couponCode": "SAVE20",
+      "shippingFee": 0,
+      "shippingMethod": "Standard Ground",
+      "tax": 27.27,
+      "total": 330.27,
+      "status": "processing",
+      "paymentStatus": "paid",
+      "paymentMethod": "card",
+      "paymentReference": "ch_5K1pX8V2b9q",
+      "inventoryDeducted": true,
+      "inventoryRestored": false,
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-08T11:20:00Z"
+        },
+        {
+          "status": "processing",
+          "timestamp": "2026-10-08T12:00:00Z",
+          "note": "Packing items"
+        }
+      ],
+      "createdAt": "2026-10-08T11:20:00Z",
+      "updatedAt": "2026-10-08T12:00:00Z"
+    },
+    {
+      "id": "ord-1004",
+      "orderNumber": "AUR-10494",
+      "userId": "usr-004",
+      "customerName": "Liam Wright",
+      "customerEmail": "liam.wright@audiofreak.net",
+      "customerPhone": "+1 (555) 901-2345",
+      "shippingAddress": {
+        "street": "88 King Street West",
+        "city": "Toronto",
+        "state": "ON",
+        "postalCode": "M5H 1J9",
+        "country": "Canada"
+      },
+      "items": [
+        {
+          "id": "item-06",
+          "productId": "prod-002",
+          "productName": "Lumen Cantilever Studio Desk Lamp",
+          "productSku": "AUR-WRK-022",
+          "productImage": "/src/assets/images/product_desk_lamp_1791623293368.jpg",
+          "unitPrice": 245,
+          "quantity": 1,
+          "lineTotal": 245
+        }
+      ],
+      "subtotal": 245,
+      "discount": 0,
+      "couponCode": null,
+      "shippingFee": 15,
+      "shippingMethod": "International Standard",
+      "tax": 33.8,
+      "total": 293.8,
+      "status": "cancelled",
+      "paymentStatus": "refunded",
+      "paymentMethod": "card",
+      "paymentReference": "ch_9M2tC4W1z7s",
+      "inventoryDeducted": true,
+      "inventoryRestored": true,
+      "internalNotes": "Customer requested cancellation prior to shipment due to relocation.",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-03T08:15:00Z"
+        },
+        {
+          "status": "cancelled",
+          "timestamp": "2026-10-03T10:45:00Z",
+          "note": "Cancelled by customer request, stock restored"
+        }
+      ],
+      "createdAt": "2026-10-03T08:15:00Z",
+      "updatedAt": "2026-10-03T10:45:00Z"
+    },
+    {
+      "id": "ord-1005",
+      "orderNumber": "AUR-10495",
+      "userId": null,
+      "customerName": "Julian Croft",
+      "customerEmail": "julian.croft@gmail.com",
+      "customerPhone": "+1 (555) 345-6789",
+      "shippingAddress": {
+        "street": "104 Beacon Hill Road",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02108",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "id": "item-07",
+          "productId": "prod-011",
+          "productName": "Solis Desktop Wireless Fast Charger 3-in-1",
+          "productSku": "AUR-AUD-118",
+          "productImage": "/src/assets/images/hero_modern_lifestyle_1791623269890.jpg",
+          "unitPrice": 99,
+          "quantity": 2,
+          "lineTotal": 198
+        }
+      ],
+      "subtotal": 198,
+      "discount": 0,
+      "couponCode": null,
+      "shippingFee": 0,
+      "shippingMethod": "Standard Ground (Free)",
+      "tax": 12.38,
+      "total": 210.38,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "paymentMethod": "cod",
+      "inventoryDeducted": true,
+      "inventoryRestored": false,
+      "statusHistory": [
+        {
+          "status": "pending",
+          "timestamp": "2026-10-09T22:10:00Z",
+          "note": "Awaiting warehouse confirmation"
+        }
+      ],
+      "createdAt": "2026-10-09T22:10:00Z",
+      "updatedAt": "2026-10-09T22:10:00Z"
+    }
+  ],
+  "inventoryMovements": [
+    {
+      "id": "inv-1791624817817-757",
+      "productId": "prod-001",
+      "productName": "Aether Hi-Fi Wireless Headphones",
+      "productSku": "AUR-AUD-010",
+      "quantityChange": 2,
+      "stockAfter": 24,
+      "reason": "order_cancelled",
+      "relatedOrderId": "ord-1791624817816",
+      "performedBy": "Test Suite",
+      "notes": "Order #AUR-70197 cancelled: stock restored",
+      "timestamp": "2026-10-10T09:33:37.817Z"
+    },
+    {
+      "id": "inv-1791624817816-679",
+      "productId": "prod-001",
+      "productName": "Aether Hi-Fi Wireless Headphones",
+      "productSku": "AUR-AUD-010",
+      "quantityChange": -2,
+      "stockAfter": 22,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1791624817816",
+      "performedBy": "Automated Test Customer",
+      "notes": "Order #AUR-70197 confirmed",
+      "timestamp": "2026-10-10T09:33:37.816Z"
+    },
+    {
+      "id": "inv-001",
+      "productId": "prod-001",
+      "productName": "Aether Hi-Fi Wireless Headphones",
+      "productSku": "AUR-AUD-010",
+      "quantityChange": -1,
+      "stockAfter": 24,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1001",
+      "performedBy": "System (Checkout)",
+      "notes": "Order #AUR-10491 checkout confirmed",
+      "timestamp": "2026-09-28T14:00:00Z"
+    },
+    {
+      "id": "inv-002",
+      "productId": "prod-007",
+      "productName": "Minimalist Brass Mechanical Pencil 0.5mm",
+      "productSku": "AUR-WRK-078",
+      "quantityChange": -2,
+      "stockAfter": 45,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1001",
+      "performedBy": "System (Checkout)",
+      "notes": "Order #AUR-10491 checkout confirmed",
+      "timestamp": "2026-09-28T14:00:00Z"
+    },
+    {
+      "id": "inv-003",
+      "productId": "prod-003",
+      "productName": "Kratos Titanium Automatic Field Watch",
+      "productSku": "AUR-HOR-035",
+      "quantityChange": -1,
+      "stockAfter": 12,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1002",
+      "performedBy": "System (Checkout)",
+      "notes": "Order #AUR-10492 checkout confirmed",
+      "timestamp": "2026-10-05T09:00:00Z"
+    },
+    {
+      "id": "inv-004",
+      "productId": "prod-002",
+      "productName": "Lumen Cantilever Studio Desk Lamp",
+      "productSku": "AUR-WRK-022",
+      "quantityChange": -1,
+      "stockAfter": 17,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1004",
+      "performedBy": "System (Checkout)",
+      "notes": "Order #AUR-10494 checkout confirmed",
+      "timestamp": "2026-10-03T08:15:00Z"
+    },
+    {
+      "id": "inv-005",
+      "productId": "prod-002",
+      "productName": "Lumen Cantilever Studio Desk Lamp",
+      "productSku": "AUR-WRK-022",
+      "quantityChange": 1,
+      "stockAfter": 18,
+      "reason": "order_cancelled",
+      "relatedOrderId": "ord-1004",
+      "performedBy": "System (Order Cancelled)",
+      "notes": "Order #AUR-10494 cancelled by customer, inventory safely restored",
+      "timestamp": "2026-10-03T10:45:00Z"
+    },
+    {
+      "id": "inv-006",
+      "productId": "prod-011",
+      "productName": "Solis Desktop Wireless Fast Charger 3-in-1",
+      "productSku": "AUR-AUD-118",
+      "quantityChange": -2,
+      "stockAfter": 40,
+      "reason": "order_placed",
+      "relatedOrderId": "ord-1005",
+      "performedBy": "System (Checkout)",
+      "notes": "Order #AUR-10495 checkout confirmed",
+      "timestamp": "2026-10-09T22:10:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cpn-01",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 50,
+      "maxUsageLimit": 500,
+      "currentUsageCount": 42,
+      "startDate": "2026-01-01T00:00:00Z",
+      "endDate": "2026-12-31T23:59:59Z",
+      "isActive": true
+    },
+    {
+      "id": "cpn-02",
+      "code": "SAVE20",
+      "discountType": "fixed",
+      "discountValue": 20,
+      "minOrderAmount": 150,
+      "maxUsageLimit": 200,
+      "currentUsageCount": 19,
+      "startDate": "2026-08-01T00:00:00Z",
+      "endDate": "2026-12-31T23:59:59Z",
+      "isActive": true
+    },
+    {
+      "id": "cpn-03",
+      "code": "STUDIO50",
+      "discountType": "fixed",
+      "discountValue": 50,
+      "minOrderAmount": 300,
+      "maxUsageLimit": 50,
+      "currentUsageCount": 8,
+      "startDate": "2026-09-01T00:00:00Z",
+      "endDate": "2026-11-30T23:59:59Z",
+      "isActive": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "productId": "prod-001",
+      "userId": "usr-001",
+      "userName": "Elena Rostova",
+      "rating": 5,
+      "title": "Remarkable soundstage and build quality",
+      "comment": "The planar transient speed and physical weight distribution are exceptional. Zero fatigue during 6-hour mixing sessions.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-10-02T16:20:00Z"
+    },
+    {
+      "id": "rev-02",
+      "productId": "prod-003",
+      "userId": "usr-002",
+      "userName": "Marcus Vance",
+      "rating": 5,
+      "title": "The titanium bead-blast finish is flawless",
+      "comment": "Weighs almost nothing on the wrist, keeps time within +3s per day. The sapphire crystal has zero glare.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-10-07T08:10:00Z"
+    }
+  ],
+  "wishlists": {
+    "usr-001": [
+      "prod-003",
+      "prod-005"
+    ],
+    "usr-002": [
+      "prod-001",
+      "prod-004"
+    ]
+  },
+  "cartStore": {},
+  "settings": {
+    "storeName": "AURA Studio",
+    "tagline": "Modern Architectural Tech & Living Objects",
+    "contactEmail": "concierge@aurastudio.com",
+    "contactPhone": "+1 (800) 555-AURA",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "freeShippingThreshold": 150,
+    "standardShippingFee": 12,
+    "taxRatePercent": 8.25,
+    "allowGuestCheckout": true
+  }
+}
